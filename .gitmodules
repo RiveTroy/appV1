@@ -1,0 +1,9 @@
+[submodule "ard-frame-app-v1/lib/Adafruit-Sensor"]
+	path = ard-frame-app-v1/lib/Adafruit-Sensor
+	url = https://github.com/adafruit/Adafruit_Sensor.git
+[submodule "ard-frame-app-v1/lib/DHT-sensor-lib"]
+	path = ard-frame-app-v1/lib/DHT-sensor-lib
+	url = https://github.com/adafruit/DHT-sensor-library.git
+[submodule "ard-frame-app-v1/lib/pubsubcli"]
+	path = ard-frame-app-v1/lib/pubsubcli
+	url = https://github.com/knolleary/pubsubclient.git
